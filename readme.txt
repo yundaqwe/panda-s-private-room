@@ -1,2 +1,1 @@
-git is not very well.
- 
+git is not very well under GRL.
