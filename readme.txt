@@ -2,4 +2,5 @@ git is not very well under GRL
 git has a mutable index called stage
 git tracks changs
 the dev's change to text
+creating a new branch is quick &simple
 
